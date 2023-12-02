@@ -6,4 +6,15 @@ Simple java maven deploying project
 3. pom.xml creation
 4. Buildng java project using maven
 
+/project-root
+   └── src
+       └── main
+           └── java
+               └── library
+                   ├── Book.java
+                   ├── Library.java
+                   └── Main.java
+   └── pom.xml
+
+
 BY ARBAZ GAZGE
